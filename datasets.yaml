@@ -1,0 +1,12 @@
+# datasets.yaml for YOLOv5 training with multiple datasets
+
+path: datasets/person_dataset # dataset root dir
+train: train/images
+val: valid/images
+test: test/images
+
+# Number of classes
+nc: 1  
+
+# Class names
+names: ['person']  
