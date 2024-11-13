@@ -1,6 +1,7 @@
 # datasets.yaml for YOLOv5 training with multiple datasets
 
-path: datasets/person_dataset # dataset root dir
+path: /kaggle/working/yolov5_object_segm/datasets/person_dataset  # update this to the correct Kaggle path
+
 train: train/images
 val: valid/images
 test: test/images
