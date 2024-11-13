@@ -1,6 +1,6 @@
 # datasets.yaml for YOLOv5 training with multiple datasets
 
-path: /kaggle/working/person_dataset
+path: /kaggle/working/datasets/person_dataset
 train: train/images
 val: valid/images
 test: test/images
